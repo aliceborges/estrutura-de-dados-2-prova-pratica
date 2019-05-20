@@ -1,5 +1,6 @@
 #define q1_h
 #include "library.h"
+#include "grafo.h"
 
 // QUESTÃO 1
 // Escreva um programa que receba, como entrada, uma matriz de adjacência de um

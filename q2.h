@@ -1,5 +1,6 @@
 #define q2_h
 #include "library.h"
+#include "grafo.h"
 
 // QUESTÃO 2
 // Escreva um programa que receba, como entrada, uma lista de adjacência de um grafo
